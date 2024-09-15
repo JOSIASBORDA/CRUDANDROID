@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\servicio\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:servicio\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|c:\\users\\josias choccata\\source\\repos\\crudalumnos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85F0A493-EBE7-45A5-B4ED-0B7006B85FF7}|CRUDALUMNOS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\MODELS\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "MODELS\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\MODELS\\MongoDBSettings.cs",
+              "RelativeToolTip": "MODELS\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:01:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "Controllers\\AlumnosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:25:17.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T17:46:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:47:54.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\SERVICIO\\AlumnoService.cs",
+              "RelativeDocumentMoniker": "SERVICIO\\AlumnoService.cs",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\SERVICIO\\AlumnoService.cs",
+              "RelativeToolTip": "SERVICIO\\AlumnoService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:16:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\MODELS\\Alumno.cs",
+              "RelativeDocumentMoniker": "MODELS\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\MODELS\\Alumno.cs",
+              "RelativeToolTip": "MODELS\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:14:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T16:49:12.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Josias Choccata\\source\\repos\\CRUDALUMNOS\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T16:49:08.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
